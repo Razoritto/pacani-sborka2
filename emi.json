@@ -1,0 +1,106 @@
+{
+  "favorites": [
+    {
+      "stack": "item:create:water_wheel",
+      "recipe": "create:crafting/kinetics/water_wheel"
+    },
+    {
+      "stack": "item:create:andesite_alloy",
+      "recipe": "create:crafting/materials/andesite_alloy"
+    },
+    {
+      "stack": "item:create:gearbox",
+      "recipe": "create:crafting/kinetics/gearbox"
+    }
+  ],
+  "lookup_history": [
+    {
+      "type": "item",
+      "id": "minecraft:raw_copper",
+      "amount": 17
+    },
+    "item:create:veridium",
+    {
+      "type": "item",
+      "id": "createdeco:pearl_bricks",
+      "amount": 4
+    },
+    "item:create:limestone",
+    "item:createnuclear:autunite",
+    "item:create:gearbox",
+    {
+      "type": "item",
+      "id": "create:shaft",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "minecraft:polished_andesite",
+      "amount": 64
+    },
+    "item:pamhc2foodextended:tomatoherbchickenitem",
+    "item:create:water_wheel",
+    "item:create:andesite_alloy",
+    "item:create:encased_fan",
+    "item:createdeco:iron_hull",
+    "item:ironchests:iron_dolly{Damage:0}",
+    "item:ironfurnaces:upgrade_iron",
+    {
+      "type": "item",
+      "id": "minecraft:string",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "minecraft:diamond",
+      "amount": 3
+    },
+    {
+      "type": "item",
+      "id": "minecraft:raw_iron",
+      "amount": 64
+    },
+    "item:waystones:warp_stone{Damage:0}",
+    "item:waystones:waystone"
+  ],
+  "craft_history": [
+    "create:crafting/materials/andesite_alloy_from_zinc",
+    "create:crafting/materials/zinc_nugget_from_decompacting",
+    "create:crafting/kinetics/cogwheel",
+    "create:crafting/kinetics/large_cogwheel",
+    "create:crafting/kinetics/shaft",
+    "minecraft:iron_axe",
+    "create:crafting/kinetics/large_water_wheel",
+    "minecraft:birch_planks",
+    "create:crafting/kinetics/water_wheel",
+    "minecraft:birch_slab",
+    "minecraft:glass_pane",
+    "minecraft:birch_stairs",
+    "minecraft:iron_shovel",
+    "minecraft:stick",
+    "minecraft:iron_leggings",
+    "minecraft:iron_boots",
+    "minecraft:iron_helmet",
+    "minecraft:iron_chestplate",
+    "minecraft:chest",
+    "minecraft:diamond_pickaxe",
+    "ironfurnaces:upgrades/upgrade_iron",
+    "minecraft:furnace",
+    "minecraft:crafting_table",
+    "minecraft:oak_boat",
+    "minecraft:bucket",
+    "minecraft:iron_pickaxe",
+    "minecraft:stone_pickaxe",
+    "minecraft:dark_oak_planks",
+    "minecraft:acacia_planks",
+    "minecraft:bread",
+    "minecraft:wheat"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}
